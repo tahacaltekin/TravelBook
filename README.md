@@ -4,7 +4,7 @@ Travel book is an application that allows you to save your favorite places and t
 
 <h1>Tools and Jetpack 🚀</h1>
 
--Room Database
--RxJava
--View Binding
+- Room Database
+- RxJava
+- View Binding
  
